@@ -10,10 +10,11 @@ exclude:
 
 # Site settings
 title: Astrofísica Estelar
-subtitle: "En esta página se espera presentar toda la información </br> relevante para el curso de Astrofísica 
-  Estelar del pregrado de Astronomía de la Universidad de Antioquia. El objetivo de el curso es
-  presentar a los estudiantes con los modelos más relevantes para entender el funcionamiento de 
-  las estrellas desde modelos físicos aplicados."
+subtitle: "En esta página se espera presentar toda la información relevante para</br>  
+  el curso de Astrofísica Estelar del pregrado de Astronomía de la Universidad</br>  
+  de Antioquia. El objetivo de el curso es presentar a los estudiantes con los </br> 
+  modelos más relevantes para entender el funcionamiento de las estrellas desde </br> 
+  modelos físicos aplicados."
 email: esteban.silvav@udea.edu.co
 name: Esteban Silva-Villa
 description: >
