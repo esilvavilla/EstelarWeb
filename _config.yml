@@ -10,19 +10,19 @@ exclude:
 
 # Site settings
 title: Astrofísica Estelar
-subtitle: "Página para el curso de Astrofísica Estelar de la Universidad de Antioquia, Colombia"
+subtitle: "En esta página se espera presentar toda la información relevante para el curso de Astrofísica 
+  Estelar del pregrado de Astronomía de la Universidad de Antioquia. El objetivo de el curso es
+  presentar a los estudiantes con los modelos más relevantes para entender el funcionamiento de 
+  las estrellas desde modelos físicos aplicados."
 email: esteban.silvav@udea.edu.co
 name: Esteban Silva-Villa
 description: >
-  En esta página se espera presentar toda la información relevante para el curso de Astrofísica 
-  Estelar del pregrado de Astronomía de la Universidad de Antioquia. El objetivo de el curso es
-  presentar a los estudiantes con los modelos más relevantes para entender el funcionamiento de 
-  las estrellas desde modelos físicos aplicados.
+  Página para el curso de Astrofísica Estelar de la Universidad de Antioquia, Colombia
 
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "EstelarWeb" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
