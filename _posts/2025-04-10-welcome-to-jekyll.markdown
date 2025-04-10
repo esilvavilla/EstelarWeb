@@ -3,10 +3,6 @@ layout: post
 title:  "Curso Astrofísica Estelar"
 ---
 
-
-<div class = "uk-container uk-container-small">
-
-# Curso Astrofísica Estelar
 Para el pregrado de Astronomía de la Universidad de Antioquia es fundamental conocer, en primera aproximación, cómo funcionan las estrellas. El curso que se propone tiene como objetivo presentar a las/os estudiantes los modelos más básicos para entender los procesos que nos llevan a comprender la producción de luz desde el interior de las estrellas, la transferencia de esa información para finalmente emitir y poder verlas como aparecen para nosotros en el cielo.
 
 **La modalidad del curso es presencial**. Si bien durante la epoca de la pandemia COVID19 se utilizó la modalidad virtual, es necesario que el estudiante esté presente para las clases que se dictan durante el semestre académico. 
